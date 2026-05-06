@@ -1,2 +1,2 @@
 # skills
-Copilot CLI skills for MCP server analysis and development workflows
+Copilot CLI skills I find useful for my personal workflows
